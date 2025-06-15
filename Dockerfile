@@ -7,3 +7,4 @@
 FROM openjdk:12-alpine
 COPY Hello.java /usr
 CMD ["java","/usr/Hello.java"]
+ 
